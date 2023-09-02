@@ -40,4 +40,6 @@ Rich standard library (Python Standard Library).
 Highly readable and easy to learn.
 Used in web development, data analysis, artificial intelligence, and scripting.
 
-In summary, C is a low-level language primarily used for system programming, C++ combines procedural and OOP features and is often used in game development, Java is a versatile, platform-independent language used for a wide range of applications, and Python is known for its simplicity and readability, making it popular for web development, data science, and scripting tasks. Each language has its own strengths and use cases.
+In summary, C is a low-level language primarily used for system programming, C++ combines procedural and OOP features and is often used in game development, Java is a versatile, 
+platform-independent language used for a wide range of applications,
+and Python is known for its simplicity and readability, making it popular for web development, data science, and scripting tasks. Each language has its own strengths and use cases.
