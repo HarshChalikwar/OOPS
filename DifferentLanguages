@@ -1,0 +1,43 @@
+
+C:
+Procedural programming language.
+Developed in 1972 by Dennis Ritchie.
+Compiled language.
+Platform-dependent.
+Supports pointers and manual memory management.
+No built-in OOP features.
+Limited standard library.
+Widely used for system-level programming.
+
+C++:
+Combines procedural and Object-Oriented Programming (OOP).
+Developed in 1979 by Bjarne Stroustrup as an extension of C.
+Compiled language.
+Platform-dependent.
+Supports OOP features like classes, objects, inheritance.
+Supports function overloading.
+Robust standard library (STL).
+Commonly used in game development and system programming.
+
+Java:
+Purely Object-Oriented Programming (OOP).
+Developed in 1991 by James Gosling.
+Interpreted language (compiled to bytecode).
+Platform-independent due to the Java Virtual Machine (JVM).
+Automatic memory management (garbage collector).
+Built-in exception handling.
+Supports multithreading and interfaces.
+Extensive standard library (Java Standard Library).
+Widely used in web development, Android app development, and enterprise software.
+
+Python:
+High-level, interpreted language.
+Created by Guido van Rossum in the late 1980s.
+Platform-independent.
+Dynamically typed with automatic memory management.
+Strongly supports OOP principles.
+Rich standard library (Python Standard Library).
+Highly readable and easy to learn.
+Used in web development, data analysis, artificial intelligence, and scripting.
+
+In summary, C is a low-level language primarily used for system programming, C++ combines procedural and OOP features and is often used in game development, Java is a versatile, platform-independent language used for a wide range of applications, and Python is known for its simplicity and readability, making it popular for web development, data science, and scripting tasks. Each language has its own strengths and use cases.
